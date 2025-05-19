@@ -6,13 +6,14 @@
 
 ## 技术栈
 
-- Vue 2.x
-- Vuex
-- Vue Router
-- Element-UI
-- Bootstrap 4
-- Axios
-- jQuery
+- Vue 2.6.11
+- Vuex 3.1.2
+- Vue Router 3.1.6
+- Element-UI 2.15.14
+- Bootstrap 4.4.1
+- Axios 0.19.2
+- jQuery 3.4.1
+
 
 ## 环境准备
 
